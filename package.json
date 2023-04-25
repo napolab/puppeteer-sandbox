@@ -52,7 +52,8 @@
   "dependencies": {
     "@open-draft/logger": "^0.3.0",
     "dotenv": "^16.0.3",
-    "neverthrow": "^6.0.0"
+    "neverthrow": "^6.0.0",
+    "puppeteer": "^19.11.1"
   },
   "volta": {
     "node": "18.16.0",
